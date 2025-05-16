@@ -3,7 +3,7 @@
 
 IMAD Assignment 2
 
-https://github.com/VCPTA/hmaw1-imad5112-assignment-2-ST10437291
+https://github.com/ST10437291/IMAD-Assignment-2
 
 https://youtu.be/-IZQflzPhkU
 
